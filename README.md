@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://ykruk.github.io/rsschool-cv/cv/
