@@ -1,16 +1,16 @@
-# rsschool-cv
+# Yuliya Kruk
 
-## Yuliya Kruk
+location: Minsk
 
-location | Minsk
-telegram | julie_kruk
-email | yuliyakruk@tut.by
+telegram: julie_kruk
+
+email: yuliyakruk@tut.by
 
 ### Summary:
-I love learning. There’s never a shortage of new technologies to learn or ways to improve my skills.
-I love challenges. There are always new problems to solve.
-I love getting creative. There are infinite ways to compose software and solve problems.
-I love sharing. There are numerous ways to get involved in the developer community to benefit others, and yourself in the process.
+- [x] I love learning. There’s never a shortage of new technologies to learn or ways to improve my skills.
+- [x] I love challenges. There are always new problems to solve.
+- [x] I love getting creative. There are infinite ways to compose software and solve problems.
+- [x] I love sharing. There are numerous ways to get involved in the developer community to benefit others, and yourself in the process.
 
 ### Skills: 
 HTML5, CSS3, JavaScript, git
