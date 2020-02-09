@@ -23,4 +23,5 @@ https://github.com/ykruk
 - Belarusian State University of Informatics and Radioelectronics - Web-design
 - Belarus State Economic University - Hospitality and Catering
 
-### English: B2
+### English: 
+B2-C1
