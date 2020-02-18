@@ -1,0 +1,96 @@
+.wrapper {
+	margin: auto;
+	padding: 50px;
+	width: 822px;
+	border: 1px solid rgba(183,183,183,1);
+	border-radius: 5px;
+	box-shadow: 2px 2px 5px 0px rgba(150,150,150,1);
+	font-family: Arial;
+}
+header {
+	border-bottom: 2px solid rgba(183,183,183,1);
+	position: relative;
+	height: 220px;
+}
+.name {
+	font-size: 40px;
+	text-transform: uppercase;
+	padding-top: 45px;
+}
+.main-photo {
+	width: 150px;
+	display: block;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+.left {
+	float: left;
+	width: 300px;
+}
+.left-block {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-top: 30px;
+}
+.group-name {
+	position: relative;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.group-name::after {
+	width: 25px;
+	position: absolute;
+	top: 28px;
+	left: 0px;
+	content: "";
+	background-color: yellow;
+	border: 2px solid black;
+}
+.left-block-title {
+	margin-top: 15px;
+	display: block;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
+}
+.left-block-item {
+	padding-top: 10px;
+	display: block;
+	margin-top: 5px;
+	display: block;
+	font-size: 15px;
+}
+.left-block-item a {
+  font-size: 15px;
+  text-decoration: none;
+}
+.right {
+	float: right;
+	width: 520px;
+	border-left: 2px solid rgba(183,183,183,1);
+}
+.right-block {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-top: 30px;
+	padding-left: 50px;
+}
+.right-block-title {
+	margin-top: 15px;
+	display: block;
+	font-weight: bold;
+	font-size: 15px;
+}
+.right-block-item {
+	margin-top: 8px;
+	display: block;
+	font-size: 13px;
+}
+.divider {
+	clear: both;
+}
